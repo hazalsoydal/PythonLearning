@@ -1,4 +1,4 @@
-# PythonLearning
+# Rock Paper Scissors
 A simple Rock Paper Scissors game implemented in Python.
 ## Features
 Play against the computer.
